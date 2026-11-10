@@ -1,0 +1,14 @@
+NOVADIEN CATALOGUE UPDATE — 9 NOVEMBER 2026
+
+Added two customer-supplied product packaging images and catalogue entries:
+- Pregnich Plus DHA (30 tablets)
+- Osteodien Forte (tablets; pack size to be confirmed from the physical pack)
+
+Both entries are visible in the public catalogue and have a Request Order button. Prices and stock remain unset, so the site displays Price on request. The product descriptions are limited to ingredients/information visible in the supplied packaging image; verify the complete approved label, product classification, and all required Kenyan regulatory/supplier authorisations before accepting or fulfilling orders.
+
+The update preserves the existing ordering, supplier, admin, and GPS workflow files. Existing local data migration fills the new product image/details for MED-001 and MED-003 while preserving administrator-entered prices and stock.
+
+Run locally:
+  npm install
+  npm start
+Then open http://localhost:3000
